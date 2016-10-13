@@ -1,2 +1,2 @@
 # keycloak-deploy
-Example of deploy using Google Cloud Platform with a Keyclock projeto on Wildfly 
+Example of a Google Cloud Platform deployment for a Keyclock project on Wildfly
